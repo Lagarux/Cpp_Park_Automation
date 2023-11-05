@@ -1,0 +1,3 @@
+﻿  Automation.cpp
+D:\UnrealBootcamp\Homework1\Park_Lot\ConsoleApplication1\Automation.cpp(114): warning C4715: 'checkState': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\UnrealBootcamp\Homework1\Park_Lot\x64\Debug\Car_Lot.exe

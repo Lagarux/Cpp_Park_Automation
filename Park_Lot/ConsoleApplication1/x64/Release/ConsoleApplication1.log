@@ -1,0 +1,7 @@
+﻿  Automation.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\UnrealBootcamp\Homework1\Park_Lot\ConsoleApplication1\Automation.cpp(79): warning C4715: 'checkState': not all control paths return a value
+  All 221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> D:\UnrealBootcamp\Homework1\Park_Lot\x64\Release\Car_Lot.exe
